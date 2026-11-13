@@ -6,7 +6,7 @@
 * https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
 *
 * Name: Aliza Asher  Student ID: 177767233  Date: 2026-11-13
-* Published URL: ADD YOUR VERCEL URL HERE AFTER DEPLOYMENT
+* Published URL: https://web322-assignment-2-vert.vercel.app/
 ********************************************************************************/
 const express = require('express');
 const projectData = require('./modules/projects');
