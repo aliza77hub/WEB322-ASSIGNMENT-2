@@ -1,0 +1,23 @@
+{
+  "name": "web322-assignment-2",
+  "version": "1.0.0",
+  "description": "WEB322 Assignment 2 Climate Solutions",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "tw:build": "npx @tailwindcss/cli -i ./public/css/tailwind.css -o ./public/css/main.css",
+    "prestart": "npm run tw:build"
+  },
+  "author": "Aliza Asher",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "ejs": "^3.1.10"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.1.0",
+    "@tailwindcss/cli": "^4.1.0",
+    "@tailwindcss/typography": "^0.5.16",
+    "daisyui": "^5.0.0"
+  }
+}

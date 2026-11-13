@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "sector_id": 1,
+    "title": "Deploy LED Lighting",
+    "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_LEDLighting_2400x2400.jpg?itok=viThnGFb",
+    "summary_short": "We define the Deploy LED Lighting solution as replacing energy-inefficient light sources with light-emitting diodes (LEDs).",
+    "intro_short": "We define the Deploy LED Lighting solution as replacing energy-inefficient light sources with light-emitting diodes (LEDs).",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/deploy-led-lighting"
+  },
+  {
+    "id": 2,
+    "sector_id": 1,
+    "title": "Deploy Offshore Wind Turbines",
+    "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_OffshoreWind_2400x2400.jpeg?itok=0Pxv1Csk",
+    "summary_short": "Offshore wind turbines are ocean-based machines that harness natural wind to generate electricity.",
+    "intro_short": "Offshore wind turbines are ocean-based machines that harness natural wind to generate electricity.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/deploy-offshore-wind-turbines"
+  },
+  {
+    "id": 3,
+    "sector_id": 1,
+    "title": "Deploy Onshore Wind Turbines",
+    "feature_img_url": "https://drawdown.org/sites/default/files/styles/crop_to_square_1080/public/media/FY25_Solutions_OnShoreWind_2400x2400.jpeg?itok=7Mb7tq-z",
+    "summary_short": "Onshore wind turbines are land-based machines that harness natural wind to generate electricity.",
+    "intro_short": "Onshore wind turbines are land-based machines that harness natural wind to generate electricity.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/deploy-onshore-wind-turbines"
+  },
+  {
+    "id": 4,
+    "sector_id": 1,
+    "title": "Deploy Utility-Scale Solar PV",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Utility-scale solar PV refers to large solar power systems connected directly to a central electric grid.",
+    "intro_short": "Utility-scale solar PV refers to large solar power systems connected directly to a central electric grid.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/deploy-utility-scale-solar-pv"
+  },
+  {
+    "id": 5,
+    "sector_id": 1,
+    "title": "Deploy Cool Roofs",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Cool roofs cut GHG emissions from electricity generation by lowering the amount of cooling required.",
+    "intro_short": "Cool roofs cut GHG emissions from electricity generation by lowering the amount of cooling required.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/deploy-cool-roofs"
+  },
+  {
+    "id": 6,
+    "sector_id": 2,
+    "title": "Improve Cement Production",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Cement production generates high carbon dioxide emissions from the production of clinker.",
+    "intro_short": "Cement production generates high carbon dioxide emissions from the production of clinker.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/improve-cement-production"
+  },
+  {
+    "id": 7,
+    "sector_id": 2,
+    "title": "Increase Centralized Composting",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "A composting system diverts organic waste from landfills, reducing methane and other GHG emissions.",
+    "intro_short": "A composting system diverts organic waste from landfills, reducing methane and other GHG emissions.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/increase-centralized-composting"
+  },
+  {
+    "id": 8,
+    "sector_id": 2,
+    "title": "Deploy Industrial Green Hydrogen",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Green hydrogen replaces fossil fuel-based hydrogen for industrial feedstock.",
+    "intro_short": "Green hydrogen replaces fossil fuel-based hydrogen for industrial feedstock.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/deploy-industrial-green-hydrogen"
+  },
+  {
+    "id": 9,
+    "sector_id": 2,
+    "title": "Improve Landfill Management",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Landfill management is the process of reducing methane emissions from landfill gas.",
+    "intro_short": "Landfill management is the process of reducing methane emissions from landfill gas.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/improve-landfill-management"
+  },
+  {
+    "id": 10,
+    "sector_id": 2,
+    "title": "Improve District Heating: Industry",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Low-carbon alternatives provide heat to industries for their operations.",
+    "intro_short": "Low-carbon alternatives provide heat to industries for their operations.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/improve-district-heating-industry"
+  },
+  {
+    "id": 11,
+    "sector_id": 3,
+    "title": "Increase Carpooling",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Carpooling increases the occupancy of passenger cars.",
+    "intro_short": "Carpooling increases the occupancy of passenger cars.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/increase-carpooling"
+  },
+  {
+    "id": 12,
+    "sector_id": 3,
+    "title": "Mobilize Electric Bicycles",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Electric bicycles use a motor to supplement the effort of the rider.",
+    "intro_short": "Electric bicycles use a motor to supplement the effort of the rider.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/mobilize-electric-bicycles"
+  },
+  {
+    "id": 13,
+    "sector_id": 3,
+    "title": "Mobilize Electric Cars",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Electric cars are four-wheeled passenger cars that run on electricity.",
+    "intro_short": "Electric cars are four-wheeled passenger cars that run on electricity.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/mobilize-electric-cars"
+  },
+  {
+    "id": 14,
+    "sector_id": 3,
+    "title": "Mobilize Hybrid Cars",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Hybrid cars reduce fuel consumption and tailpipe emissions.",
+    "intro_short": "Hybrid cars reduce fuel consumption and tailpipe emissions.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/mobilize-hybrid-cars"
+  },
+  {
+    "id": 15,
+    "sector_id": 3,
+    "title": "Improve Nonmotorized Transportation",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Increasing any form of travel that does not use a motor or engine.",
+    "intro_short": "Increasing any form of travel that does not use a motor or engine.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/improve-nonmotorized-transportation"
+  },
+  {
+    "id": 16,
+    "sector_id": 4,
+    "title": "Improve Diets",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Reducing ruminant meat consumption has potential for climate change mitigation.",
+    "intro_short": "Reducing ruminant meat consumption has potential for climate change mitigation.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/improve-diets"
+  },
+  {
+    "id": 17,
+    "sector_id": 4,
+    "title": "Reduce Food Loss & Waste",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "More than one-third of food produced for human consumption is lost or wasted.",
+    "intro_short": "More than one-third of food produced for human consumption is lost or wasted.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/reduce-food-loss-waste"
+  },
+  {
+    "id": 18,
+    "sector_id": 4,
+    "title": "Improve Nutrient Management",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Reducing excessive nitrogen use on croplands.",
+    "intro_short": "Reducing excessive nitrogen use on croplands.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/improve-nutrient-management"
+  },
+  {
+    "id": 19,
+    "sector_id": 4,
+    "title": "Improve Rice Production",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Rice production is a significant source of methane emissions.",
+    "intro_short": "Rice production is a significant source of methane emissions.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/improve-rice-production"
+  },
+  {
+    "id": 20,
+    "sector_id": 4,
+    "title": "Reduce Overfishing",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Management actions decrease fishing effort and cut emissions from fishing vessel fuel use.",
+    "intro_short": "Management actions decrease fishing effort and cut emissions from fishing vessel fuel use.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/reduce-overfishing"
+  },
+  {
+    "id": 21,
+    "sector_id": 5,
+    "title": "Protect Grasslands & Savannas",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Legal protection of grassland and savanna ecosystems.",
+    "intro_short": "Legal protection of grassland and savanna ecosystems.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/protect-grasslands-savannas"
+  },
+  {
+    "id": 22,
+    "sector_id": 5,
+    "title": "Protect Forests",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Long-term protection of tree-dominated ecosystems.",
+    "intro_short": "Long-term protection of tree-dominated ecosystems.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/protect-forests"
+  },
+  {
+    "id": 23,
+    "sector_id": 5,
+    "title": "Improve Annual Cropping",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Practices that minimize soil disturbance and protect topsoil.",
+    "intro_short": "Practices that minimize soil disturbance and protect topsoil.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/improve-annual-cropping"
+  },
+  {
+    "id": 24,
+    "sector_id": 5,
+    "title": "Protect Seaweed Ecosystems",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Long-term protection of wild seaweed ecosystems from degradation.",
+    "intro_short": "Long-term protection of wild seaweed ecosystems from degradation.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/protect-seaweed-ecosystems"
+  },
+  {
+    "id": 25,
+    "sector_id": 5,
+    "title": "Protect Coastal Wetlands",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Long-term protection of mangrove, salt marsh, and seagrass ecosystems.",
+    "intro_short": "Long-term protection of mangrove, salt marsh, and seagrass ecosystems.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/protect-coastal-wetlands"
+  },
+  {
+    "id": 26,
+    "sector_id": 6,
+    "title": "Restore Forests",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Returning previously forested land to a forested state.",
+    "intro_short": "Returning previously forested land to a forested state.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/restore-forests"
+  },
+  {
+    "id": 27,
+    "sector_id": 6,
+    "title": "Deploy Silvopasture",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Agroforestry practices that add trees to grazing land.",
+    "intro_short": "Agroforestry practices that add trees to grazing land.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/deploy-silvopasture"
+  },
+  {
+    "id": 28,
+    "sector_id": 6,
+    "title": "Restore Grasslands & Savannas",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Restoring grasslands and savannas stores carbon in soils and vegetation.",
+    "intro_short": "Restoring grasslands and savannas stores carbon in soils and vegetation.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/restore-grasslands-savannas"
+  },
+  {
+    "id": 29,
+    "sector_id": 6,
+    "title": "Restore Salt Marsh Ecosystems",
+    "feature_img_url": "/images/climate-placeholder.svg",
+    "summary_short": "Reestablishing salt marshes where they were previously lost.",
+    "intro_short": "Reestablishing salt marshes where they were previously lost.",
+    "impact": "Full original impact text was not available in the supplied complete file. Replace with the original projectData.json before submission.",
+    "original_source_url": "https://drawdown.org/explorer/restore-salt-marsh-ecosystems"
+  }
+]
